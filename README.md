@@ -1,1 +1,0 @@
-GPT-5 Codex made this, don't expect bug fixes or upgrades 
